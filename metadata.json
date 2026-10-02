@@ -1,0 +1,6 @@
+{
+  "name": "대진고 급식",
+  "description": "대진전자통신고등학교 실시간 급식 식단 및 영양 정보 조회 앱 (NEIS 오픈 API 연동)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
